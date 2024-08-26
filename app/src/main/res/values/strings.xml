@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="Register">New Member? <font color="#5a67d8">Register</font></string>
+</resources>
